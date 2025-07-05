@@ -4,5 +4,7 @@
 - [Troubleshooting-Excel](https://github.com/Jmtechh/Troubleshooting-Excel)
 - [Troubleshooting-Outlooks-Search-Function](https://github.com/Jmtechh/Troubleshooting-Outlooks-Search-Function)
 - [Troubleshooting-Applications-Not-Opening](https://github.com/Jmtechh/Troubleshooting-Applications-Not-Opening)
-- 
+- [Setting up a new user via office exchange admin(M365)](https://github.com/Jmtechh/Setting-up-a-new-user-via-office-exchange-admin-M365-)
+- [Repairing-Applications](https://github.com/Jmtechh/Repairing-Applications)
+   
  
